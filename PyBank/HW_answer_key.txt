@@ -1,0 +1,4 @@
+Total Months: 86.
+Total_Pnl: $38382578.
+Greatest increace in profits: Feb-2012 1926159.0.
+Greatest decrease in profits: Sep-2013 -2196167.0.
